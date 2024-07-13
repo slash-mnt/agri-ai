@@ -1,0 +1,4 @@
+batch: 16 # Batch size
+epochs: 1200 # Number of epochs
+weights: yolov8n.pt # Pretrained weights
+img-size: 600 # Image size

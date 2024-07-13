@@ -1,0 +1,6 @@
+train: ./yolo/train/images # Training images path
+val: ./yolo/val/images # Validation images path
+test: ./yolo/test/images # Validation images path
+
+nc: 1 # Number of classes
+names: ['Haystack'] # Class names
